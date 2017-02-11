@@ -1,7 +1,6 @@
 *.class
 /target
 /.settings
-/.mvn
 .classpath
 .project
 
